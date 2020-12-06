@@ -5,7 +5,7 @@
 I work as a ~~Jr. Full Stack Developer~~ Product Support Specialist at Ackroo. I´m currently based in Hamilton - Ontario, Canada.
 
 - 🔭 I’m currently working on Ruby On Rails and SQL (MySQL & PostgresSQL)
-- 🌱 I’m currently learning Ruby On Rails and ReactJS through [OneBitCode - Bootcamp](https://onebitcode.com/)
+- 🌱 I’m currently learning Ruby On Rails, TDD, and ReactJS through [OneBitCode - Bootcamp](https://onebitcode.com/)
 - 👯 I’m looking to collaborate on NodeJS, Ruby On Rails, and ReactJS Open Source Projects
 - ⚡ Fun fact: I've previously worked as a Petroleum Engineer
 
