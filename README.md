@@ -2,7 +2,7 @@
 
 <hr />
 
-I work as a Intermediate Software Developer at Ackroo. I´m currently based in Hamilton - Ontario, Canada.
+I work as a Software Developer at ZayZoon. I´m currently based in Ontario, Canada.
 
 - 🔭 I’m currently working on Ruby On Rails and SQL (MySQL & PostgresSQL)
 - 🌱 I’m currently learning how to build APIs with Sinatra and Ruby On Rails through [Master Ruby Web APIs](https://devblast.com/r/master-ruby-web-apis/toc)
